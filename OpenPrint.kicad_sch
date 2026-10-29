@@ -9454,7 +9454,7 @@
 		)
 		(uuid "4932161c-7bf0-4133-890c-61929c72dc5e")
 	)
-	(label "USB-CONN_DM"
+	(label "USB-CONN_DN"
 		(at 351.79 123.19 0)
 		(effects
 			(font
@@ -9564,7 +9564,7 @@
 		)
 		(uuid "a473fba1-0192-4f79-bab7-39f90ef2bad4")
 	)
-	(label "USB-MCU_DM"
+	(label "USB-MCU_DN"
 		(at 63.5 123.19 180)
 		(effects
 			(font
@@ -9634,7 +9634,7 @@
 		)
 		(uuid "d9045d35-6268-42e0-adc8-9d1547ac7290")
 	)
-	(label "USB-CONN_DM"
+	(label "USB-CONN_DN"
 		(at 339.09 173.99 180)
 		(effects
 			(font
@@ -9674,7 +9674,7 @@
 		)
 		(uuid "f2de0239-1512-44f9-aab7-6af88edcb1d3")
 	)
-	(label "USB-MCU_DM"
+	(label "USB-MCU_DN"
 		(at 354.33 173.99 0)
 		(effects
 			(font
